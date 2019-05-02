@@ -1,0 +1,1 @@
+PATH variable = location of pixel.txt
